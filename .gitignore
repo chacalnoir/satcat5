@@ -18,6 +18,7 @@
 # Ignore compiled Python and C files
 *.pyc
 *.o
+**/*.egg*
 
 # Ignore temporary files (Vim, etc.)
 ~*
