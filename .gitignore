@@ -7,6 +7,8 @@
 *.o
 **/*.egg*
 
+**/build/**
+
 # Ignore temporary files (Vim, etc.)
 ~*
 *.jou
